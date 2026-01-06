@@ -26,4 +26,4 @@ More explanations to come later
 # Current version (Jan 6, 2026)
 ![url](_imgs/github_stats_api_01.png)
 
-<img src="_imgs/github_stats_api_01.png"/>
+<img src="_imgs/github_stats_api_01.png" style="width: auto; height: 200px;"/>
