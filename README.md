@@ -34,4 +34,4 @@ More explanations to come later
 
 # Current version (Jan 6, 2026)
 <p align="center"><img src="_imgs/github_stats_api_01.png" style="width: auto; height: 200px;"/></p>
-<p align="center"><img src="_imgs/github_stats_api_02.png" style="width: auto; height: 458px;"/></p>
+<p align="center"><img src="_imgs/github_stats_api_02.png" style="width: auto; height: 350px;"/></p>
