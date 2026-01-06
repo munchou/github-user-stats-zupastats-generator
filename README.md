@@ -1,10 +1,12 @@
+*Last updated on January 6, 2026*
+
 # GitHub ZUPAstats generator
 
 A user stats generator in Python with basic info such as number of commits, repositories, follow-ers/ing, PR, contributions, etc. and a generated graph of languages use
 
 Contributions of any kind are welcome =)
 
-latest update: Jan. 6, 2026
+
 (don't mind the crappy README, I'll make it look good later)
 
 # Current state:
@@ -20,3 +22,6 @@ JAN 6 2026 CHANGE: I found that generating using locally stored images wouldn't 
 - github_stats_api_stats_generator.py
 
 More explanations to come later
+
+# Current version (Jan 6, 2026)
+![url](_imgs/github_stats_api_01.png)
