@@ -6,6 +6,8 @@ A user stats generator in Python with basic info such as number of commits, repo
 
 NOT THOROUGHLY TESTED (yet)
 
+EDIT JANUARY 7 2026: GitHub doesNOT allow simple HTML code (flexbox, true SVG, and whatnot), so I must think of a way of generating a full picture instead of code. I'll share the HTML generating part anyway...
+
 Contributions of any kind are welcome =)
 
 (don't mind the crappy README, I'll make it look good later)
