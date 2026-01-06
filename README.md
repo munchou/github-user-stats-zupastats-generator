@@ -1,4 +1,22 @@
 # GitHub ZUPAstats generator
+
 A user stats generator in Python with basic info such as number of commits, repositories, follow-ers/ing, PR, contributions, etc. and a generated graph of languages use
 
 Contributions of any kind are welcome =)
+
+latest update: Jan. 6, 2026
+(don't mind the crappy README, I'll make it look good later)
+
+# Current state:
+All intended user data retrieved and processed (if needed): username, joined year, number of commits, number of pull requests, number of contributions, number of stars, number of followers, number of following, number of issues, number of repositories, number of languages used, number of total_lang_occurencies: {total_lang_occurencies}
+
+# Files and folders
+- github_stats_imgs (folder): contains the images for the final render
+JAN 6 2026 CHANGE: I found that generating using locally stored images wouldn't be user friendly, so now it's directly summoning the official SVG images from https://primer.style/octicons/ (hopefully it lasts). I'm leaving the edited images (from the same website, but I converted them one by one into PNG images).
+- user_img (folder): contains the user's generated pie chart PNG image about languages use, name "[username]_github_stats_languages.png"
+- .env file (not present, obviously), with the line "GITHUB_TOKEN=" where you add your own token (don't use quotation marks)
+- github_stats_api_piemaker.py
+- github_stats_api_retrievers.py
+- github_stats_api_stats_generator.py
+
+More explanations to come later
