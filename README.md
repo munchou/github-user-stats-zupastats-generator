@@ -15,7 +15,7 @@ All intended user data retrieved and processed (if needed): username, joined yea
 # Files and folders
 - github_stats_imgs (folder): contains the images for the final render
 JAN 6 2026 CHANGE: I found that generating using locally stored images wouldn't be user friendly, so now it's directly summoning the official SVG images from https://primer.style/octicons/ (hopefully it lasts). I'm leaving the edited images (from the same website, but I converted them one by one into PNG images).
-- user_img (folder): contains the user's generated pie chart PNG image about languages use, name "[username]_github_stats_languages.png"
+- user_img (folder): contains the user's generated pie chart SVG image about languages use, name "[username]_github_stats_languages.svg"
 - .env file (not present, obviously), with the line "GITHUB_TOKEN=" where you add your own token (don't use quotation marks)
 - github_stats_api_piemaker.py
 - github_stats_api_retrievers.py
@@ -25,3 +25,5 @@ More explanations to come later
 
 # Current version (Jan 6, 2026)
 ![url](_imgs/github_stats_api_01.png)
+
+<img src="_imgs/github_stats_api_01.png"/>
